@@ -1,7 +1,7 @@
-# PAK Transportation INC Inc Website — Rebrand & Fixes
+# PAK Transportation Inc Website — Rebrand & Fixes
 
 ## Objective
-- Rebrand all 6 pages from "PAK Transportation INC" to **PAK Transportation INC Inc**
+- Rebrand all 6 pages from "PAK Transportation" to **PAK Transportation Inc**
 - Update contact details: Phone `+1 323-301-3169`, Email `info@pakfreightdat.com`, Address `Ypsilanti, MI 48197`
 - Remove all "Follow Us" social media icon blocks
 - Fix Get-a-Quote hero text readability (invalid `opacity-18` → `opacity-20`)
@@ -23,7 +23,7 @@
 - [ ] fleet.html: rebrand title, top bar, logo, nav, hero image → `photo-1605812860427`, CTA, footer, social removal
 - [ ] contact.html: rebrand title, top bar, logo, nav, hero image → `photo-1494412574643`, info cards → Ypsilanti, form placeholders, map → Ypsilanti, FAQ, footer, social removal
 - [ ] get-a-quote.html: rebrand title, top bar, logo, nav, hero image → `photo-1519415943484`, opacity fix, phone badge, placeholders, footer, social removal
-- [ ] Verification: no "PAK"/"514"/"PAKTransportation INC" leftovers, all tel/mailto updated
+- [ ] Verification: no "PAK"/"514"/"PAKTransportation" leftovers, all tel/mailto updated
 
 ## Hero Image Assignment (distinct image per page)
 - index.html → `photo-1519003722824` (highway truck)
