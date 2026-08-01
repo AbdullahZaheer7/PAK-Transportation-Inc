@@ -1,7 +1,7 @@
 # PAK Transportation INC Inc Website — Rebrand & Fixes
 
 ## Objective
-- Rebrand all 6 pages from "Oryx Logistics" to **PAK Transportation INC Inc**
+- Rebrand all 6 pages from "PAK Transportation INC" to **PAK Transportation INC Inc**
 - Update contact details: Phone `+1 323-301-3169`, Email `info@pakfreightdat.com`, Address `Ypsilanti, MI 48197`
 - Remove all "Follow Us" social media icon blocks
 - Fix Get-a-Quote hero text readability (invalid `opacity-18` → `opacity-20`)
@@ -15,7 +15,7 @@
 - [ ] 5. Rebrand fleet.html (title, logo, top bar, hero + image swap, footer, CTAs, social removal)
 - [ ] 6. Rebrand contact.html (title, logo, top bar, hero + image swap, info cards, form, map → Ypsilanti, FAQ, footer, CTAs, social removal)
 - [ ] 7. Rebrand get-a-quote.html (title, logo, top bar, hero + image swap + opacity fix, phone badge, placeholders, footer, CTAs, social removal)
-- [ ] 8. Final verification pass (all tel/mailto links, no "Oryx", no social icons, hero images distinct, hero readable)
+- [ ] 8. Final verification pass (all tel/mailto links, no "PAK", no social icons, hero images distinct, hero readable)
 
 ## Implementation Checkpoints
 - [x] about.html: fix 3 broken `<img>` tags (missing src), remove social hover overlays in team section
@@ -23,7 +23,7 @@
 - [ ] fleet.html: rebrand title, top bar, logo, nav, hero image → `photo-1605812860427`, CTA, footer, social removal
 - [ ] contact.html: rebrand title, top bar, logo, nav, hero image → `photo-1494412574643`, info cards → Ypsilanti, form placeholders, map → Ypsilanti, FAQ, footer, social removal
 - [ ] get-a-quote.html: rebrand title, top bar, logo, nav, hero image → `photo-1519415943484`, opacity fix, phone badge, placeholders, footer, social removal
-- [ ] Verification: no "Oryx"/"514"/"oryxlogistics" leftovers, all tel/mailto updated
+- [ ] Verification: no "PAK"/"514"/"PAKTransportation INC" leftovers, all tel/mailto updated
 
 ## Hero Image Assignment (distinct image per page)
 - index.html → `photo-1519003722824` (highway truck)
